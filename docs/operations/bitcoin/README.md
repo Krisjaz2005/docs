@@ -1,4 +1,4 @@
----
+---kj
 meta:
   - name: description
     content: Learn how to deploy a fully synchronized Bitcoin node in minutes and interact with the node.
